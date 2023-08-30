@@ -1,3 +1,2 @@
-Paragon The Overprime
-Gname  -> 0x5E1B500
-Gworld -> 0x5F91408
+gname : 0x60cc240  
+gworld: 0x6242168 
